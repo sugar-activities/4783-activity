@@ -1,0 +1,9 @@
+[Activity]
+name = Blender
+activity_version = 12
+service_name = org.laptop.Blender.x86
+exec = sugar-activity activity.BlenderActivity
+icon = skel
+mime_types =
+license = GPLv2+
+
